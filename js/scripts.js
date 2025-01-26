@@ -30,6 +30,6 @@ document.getElementById('birthForm').addEventListener('submit', function (event)
 
 
 function getDayName(dayIndex) {
-    const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
     return days[dayIndex];
 }
