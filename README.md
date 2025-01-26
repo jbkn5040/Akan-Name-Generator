@@ -1,4 +1,4 @@
-Author: Joshua Kamau
+Author: Joshua Kamau<br>
 Description: This is an Akan Name Generator
 How it works;
   By inputing ones date of birth and specifically the name and gender one can be
