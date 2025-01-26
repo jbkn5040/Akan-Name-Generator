@@ -1,6 +1,7 @@
 .error {
     text-align: center;
     background-color: blue;
+    padding: 10px;
 }
 
 .birthform {
@@ -9,4 +10,11 @@
 
 button {
     background-color: blue;
+}
+
+body {
+    background-image: url('backgroundimage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
