@@ -1,6 +1,5 @@
 .error {
     text-align: center;
-    background-color: blue;
     padding: 10px;
 }
 
@@ -10,6 +9,7 @@
 
 button {
     background-color: blue;
+
 }
 
 body {
